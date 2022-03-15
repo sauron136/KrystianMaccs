@@ -1,11 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 I am Christian Maccs, and I am a:
 1. Django Developer/ Backend developer
 2. Data Scientist
 3. Data Analyst
-
-**KrystianMaccs/KrystianMaccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on "Sirius Academy", an online Tech school.
 - 🌱 I’m currently learning React just so I can confidently call myself a full-stack developer
