@@ -4,10 +4,8 @@ I am Christian Maccs, and I am a:
 2. Data Scientist
 3. Data Analyst
 
-<!--
 **KrystianMaccs/KrystianMaccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on "Sirius Academy", an online Tech school.
 - 🌱 I’m currently learning React just so I can confidently call myself a full-stack developer
@@ -17,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via email @ krystianmaccs@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Music was and will be always be my only lover.
--->
